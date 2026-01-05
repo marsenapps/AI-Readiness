@@ -58,3 +58,11 @@ University administrators use progress dashboards to track adoption across colle
 
 <li>Sustainability: Builds internal capacity among teaching staff</li>
 </ul>
+
+## Acknowledgments
+
+**Inspiration**: The structure draws on principles from the University of Helsinki's "Elements of AI" course and the "AI Ethics" framework developed by institutions like the Montreal AI Ethics Institute.<br>
+
+**Potential Tools & Resources**: The project would utilize open-source software (Jupyter, TensorFlow, PyTorch) and leverage publicly available datasets from Rwanda's Open Data Portal and international repositories like Kaggle and UCI Machine Learning Repository.<br>
+
+**Template**: This proposal follows the adapted structure of the Building AI course final project template by Reaktor Innovations and the University of Helsinki.
