@@ -47,12 +47,14 @@ University administrators use progress dashboards to track adoption across colle
 
 ## Critical Needs Addressed:
 
-<ul><li>Accessibility</li>: Materials work across varying tech infrastructures
+<ul>
+  <li>Accessibility: Materials work across varying tech infrastructures</li>
 
-<li>Relevance</li>: Examples drawn from Rwandan and African contexts
+<li>Relevance: Examples drawn from Rwandan and African contexts</li>
 
-<li>Practicality</li>: Skills immediately applicable to coursework
+<li>Practicality: Skills immediately applicable to coursework </li>
 
-<li>Scalability</li>: Designed to expand across the university system
+<li>Scalability: Designed to expand across the university system</li>
 
-<li>Sustainability</li></ul>: Builds internal capacity among teaching staff
+<li>Sustainability: Builds internal capacity among teaching staff</li>
+</ul>
