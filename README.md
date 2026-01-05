@@ -44,3 +44,15 @@ Lecturers across departments receive "train-the-trainer" workshops, empowering t
 
 ### 3. Institutional Implementation: 
 University administrators use progress dashboards to track adoption across colleges, while career services connect trained students with local tech employers seeking AI-savvy graduates.
+
+## Critical Needs Addressed:
+
+<ul><li>Accessibility</li>: Materials work across varying tech infrastructures
+
+<li>Relevance</li>: Examples drawn from Rwandan and African contexts
+
+<li>Practicality</li>: Skills immediately applicable to coursework
+
+<li>Scalability</li>: Designed to expand across the university system
+
+<li>Sustainability</li></ul>: Builds internal capacity among teaching staff
